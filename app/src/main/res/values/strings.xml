@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RP $S Converter</string>
+    <string name="sgd">SGD (Singapore):</string>
+    <string-array name="spinnerCurrency">
+        <item>IDR</item>
+        <item>INR</item>
+        <item>MYR</item>
+        <item>VND</item>
+        <item>CNY</item>
+        <item>PHP</item>
+    </string-array>
+    <string name="add">ADD:</string>
+
+</resources>
